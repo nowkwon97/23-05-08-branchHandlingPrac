@@ -1,0 +1,24 @@
+{
+  "name": "23-05-08-branchhandlingprac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nowkwon97/23-05-08-branchHandlingPrac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nowkwon97/23-05-08-branchHandlingPrac/issues"
+  },
+  "homepage": "https://github.com/nowkwon97/23-05-08-branchHandlingPrac#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
